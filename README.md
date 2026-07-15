@@ -166,22 +166,4 @@ NaverBlogHTMLCopier/
 | `[썸네일 사진]` / `[사진]` | 📷 이미지 삽입 위치 | 이미지 자리표시자 |
 | `**텍스트**` | `<strong>` | 볼드 텍스트 |
 
----
 
-## 👨‍💻 기여하기
-
-버그 수정, 기능 추가 등 모든 기여를 환영합니다!
-
-1. 이 저장소를 **Fork** 합니다.
-2. 새 브랜치를 생성합니다. (`git checkout -b feature/새기능`)
-3. 변경 사항을 커밋합니다. (`git commit -m "Add: 새 기능 추가"`)
-4. 브랜치에 푸시합니다. (`git push origin feature/새기능`)
-5. **Pull Request**를 생성합니다.
-
-> 💬 버그 리포트나 기능 제안은 [Issues](../../issues) 탭에 남겨주세요!
-
----
-
-<p align="center">
-  Made with ❤️ for 네이버 블로거
-</p>
